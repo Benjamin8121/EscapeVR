@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BoasRum.unity
+    guid: d23672826b503484d8a7257e96a322ba
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f263bb83d5c7a724d9bea213972d1382, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1dcf7ae354eebe34da61ef8409021edb, type: 2}
