@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Key
+  - circkle
+  - square
+  - triangle
+  - puzzle
   layers:
   - Default
   - TransparentFX
